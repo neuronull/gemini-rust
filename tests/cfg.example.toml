@@ -1,0 +1,4 @@
+[api]
+url = "https://api.sandbox.gemini.com"
+key = "<your Sandbox API key>"
+sec = "<your Sandbox API secret>"
